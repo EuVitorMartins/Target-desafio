@@ -5,7 +5,9 @@ No desafio, não disse qual linguagem de programação era para usar, por prefer
 ### O desafio era criar 3 funções. 
 
 1.Função para verificar se um número pertence à sequência de Fibonacci
+
 2.Função para contar a letra 'a' em uma string
+
 3.Função para resolver o problema do valor da variável SOMA
 
 ## Veja exemplo
